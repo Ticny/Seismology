@@ -3,12 +3,13 @@ Type: Package
 Title: Seismology package allows to analyze data from seismic catalogs
 Version: 0.1.0
 Author: Sedney Vera [seddav2@gmail.com](mailto:seddav2@gmail.com) {.email}
-Maintainer: Sedney Vera [seddav2@gmail.com](mailto:seddav2@gmail.com) {.email}
+Maintainer: Sedney Vera <seddav2@gmail.com>
 Description: The package allows for the manipulation of data from seismic catalogs, making it easier to interpret and analyze
     SepYM: It separates the year and the month from the catalog using a variable called time_value, which is in the format of YY-MM-DD and UTC time
-    Mean_Y: Calculate the mean of the magnitude_value_P for a specific year
-    Mean_YM: Calculate the mean of the magnitude_value_P for a specific year and month
-    Dephsism_Y: It plots the month and depth of seismic events from a specific year with points that represent different magnitudes
+    MeanSY: Calculate the mean of the magnitude_value_P for a specific year
+    MeanS4YM: Calculate the mean of the magnitude_value_P for a specific year and month
+    Depsism_Y: It plots the month and depth of seismic events from a specific year with points that represent different magnitudes
 License: MIT License
 Encoding: UTF-8
 LazyData: true
+RoxygenNote: 7.2.3
