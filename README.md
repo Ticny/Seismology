@@ -13,6 +13,7 @@ Installation and loading
 ```r
 # Install
 if(!require(devtools)) install.packages("devtools")
+if(!require(dplyr)) install.packages("dplyr")
 devtools::install_github("Ticny/Seismology")
 ```
 
