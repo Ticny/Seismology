@@ -15,3 +15,6 @@ LazyData: true
 RoxygenNote: 7.2.3
 URL: https://github.com/Ticny/Seismology
 BugReports: https://github.com/Ticny/Seismology/issues
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
