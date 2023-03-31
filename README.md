@@ -20,7 +20,7 @@ if(!require(magrittr)) install.packages("magrittr")
 devtools::install_github("Ticny/Seismology")
 ```
 
-Distribution
+Example with data from IGEPN
 ------------
 
 ```r
