@@ -4,6 +4,13 @@ Seismology: a demo package
 This is a demo package from R4DS course.
 This package allows for the manipulation and presentation of seismic catalog data, which can be separated by years and months for greater ease
 
+Functions
+---------
+SepYM:	Separate the year and month
+Depsism_Y:	Dotplot with month, depth and magnitude
+MeanS4YM:	Mean seismic magnitude for year and month
+MeanSY:	Mean seismic magnitude for year
+
 
 Installation and loading
 ------------------------
