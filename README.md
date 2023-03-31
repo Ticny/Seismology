@@ -21,7 +21,7 @@ Distribution
 
 ```r
 library(Seismology)
-#> Loading required package: ggplot2
+#> Loading required package: ggplot2, dplyr
 # Create some data format
 # :::::::::::::::::::::::::::::::::::::::::::::::::::
 set.seed(1234)
