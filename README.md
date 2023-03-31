@@ -3,7 +3,7 @@ Seismology: a demo package
 
 This is a demo package from R4DS course.
 This package allows for the manipulation and presentation of seismic catalog data, which can be separated by years and months for greater ease
-e-mail: seddav2@gmail.com
+-e-mail: seddav2@gmail.com
 
 Functions
 ---------
