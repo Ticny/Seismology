@@ -14,6 +14,8 @@ Installation and loading
 # Install
 if(!require(devtools)) install.packages("devtools")
 if(!require(dplyr)) install.packages("dplyr")
+if(!require(ggplot2)) install.packages("ggplot2")
+if(!require(magrittr)) install.packages("magrittr")
 devtools::install_github("Ticny/Seismology")
 ```
 
