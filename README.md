@@ -6,10 +6,10 @@ This package allows for the manipulation and presentation of seismic catalog dat
 
 Functions
 ---------
-SepYM:	Separate the year and month
-Depsism_Y:	Dotplot with month, depth and magnitude
-MeanS4YM:	Mean seismic magnitude for year and month
-MeanSY:	Mean seismic magnitude for year
+- SepYM:	Separate the year and month
+- Depsism_Y:	Dotplot with month, depth and magnitude
+- MeanS4YM:	Mean seismic magnitude for year and month
+- MeanSY:	Mean seismic magnitude for year
 
 
 Installation and loading
