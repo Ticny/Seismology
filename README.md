@@ -14,9 +14,9 @@ Functions
 Description of variables 
 ------------------------
 We work with a catalog with the vatiables: depth_value, time_value and magnitude_value_P
--time_value: Year, month, day and time of recording of a seismic event 
--depth_value: Depth (Km) of the seismic event
--magnitude_value_P: P-wave magnitude of the event 
+- time_value: Year, month, day and time of recording of a seismic event 
+- depth_value: Depth (Km) of the seismic event
+- magnitude_value_P: P-wave magnitude of the event 
 
 Installation and loading
 ------------------------
