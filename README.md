@@ -2,7 +2,7 @@ Seismology: a demo package
 ===============================================
 
 This is a demo package from R4DS course.
-This package allows for the manipulation and presentation of seismic catalog data, which can be separated by years and months for greater ease. 
+#This package allows for the manipulation and presentation of seismic catalog data, which can be separated by years and months for greater ease. 
 - e-mail: seddav2@gmail.com
 
 Functions
@@ -14,7 +14,7 @@ Functions
 
 Description of variables 
 ------------------------
-We work with a catalog with the vatiables: depth_value, time_value and magnitude_value_P
+#We work with a catalog with the vatiables: 
 - time_value: Year, month, day and time of recording of a seismic event 
 - depth_value: Depth (Km) of the seismic event
 - magnitude_value_P: P-wave magnitude of the event 
