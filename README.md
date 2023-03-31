@@ -10,7 +10,7 @@ Installation and loading
 
 -   Install the latest version from [GitHub](https://github.com/Ticny/Seismology) as follow:
 
- '''r
+´´´r
 # Install
 if(!require(devtools)) install.packages("devtools")
 devtools::install_github("Ticny/Seismology")
@@ -19,7 +19,7 @@ devtools::install_github("Ticny/Seismology")
 Distribution
 ------------
 
- '''r
+´´´r
 library(Seismology)
 #> Loading required package: ggplot2
 # Create some data format
